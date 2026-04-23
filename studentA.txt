@@ -1,0 +1,2 @@
+Thus is a sample text file.
+created by student A.
